@@ -1,11 +1,9 @@
-Introduction 
-<a href="https://stackoverflow.com/users/5968928/usman-ali-maan"><img src="https://stackoverflow.com/users/flair/5968928.png" width="208" height="58" alt="profile for Usman Ali Maan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Usman Ali Maan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <h1 style="text-align: center;">
-  Hello there, I'm Usman Ali Maan 🐋
+  Hello there, I'm Usman Ali Maan <a href="https://stackoverflow.com/users/5968928/usman-ali-maan"><img src="https://stackoverflow.com/users/flair/5968928.png" width="208" height="58" alt="profile for Usman Ali Maan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Usman Ali Maan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> 🐋
 </h1>
 
 > Now, I'm focusing on my work repositories (gitlab). So, basicaly i'm not doing so much here.
-[![Twitter](https://img.shields.io/twitter/follow/rasyidf_?color=%23169ef2&style=for-the-badge)](https://twitter.com/)
+[![Twitter](https://img.shields.io/twitter/follow/UsmanAliMaan?color=%23169ef2&style=for-the-badge)](https://twitter.com/)
 
  
 ## About Me
